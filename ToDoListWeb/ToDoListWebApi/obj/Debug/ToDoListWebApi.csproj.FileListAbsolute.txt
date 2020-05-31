@@ -1,0 +1,227 @@
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.dll.config
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.pdb
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.exe
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.exe.config
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.rsp
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\csi.exe
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\csi.rsp
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.AppContext.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.exe
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.exe.config
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.rsp
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\VBCSCompiler.exe
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Antlr3.Runtime.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.SqlServer.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Newtonsoft.Json.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Net.Http.Formatting.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Helpers.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.WebHost.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Mvc.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Optimization.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Razor.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Razor.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\WebGrease.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.SqlServer.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Newtonsoft.Json.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Net.Http.Formatting.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Helpers.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.WebHost.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Mvc.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Optimization.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.Razor.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Razor.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Antlr3.Runtime.pdb
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Helpers.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Http.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Mvc.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Optimization.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Razor.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csproj.CoreCompileInputs.cache
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csproj.CopyComplete
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.dll
+D:\ProyectoApiWeb\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.pdb
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.dll.config
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.pdb
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.exe
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.exe.config
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.rsp
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\csi.exe
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\csi.rsp
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.exe
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.exe.config
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.rsp
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Antlr3.Runtime.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Newtonsoft.Json.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Helpers.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Mvc.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Optimization.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Razor.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\WebGrease.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Newtonsoft.Json.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Helpers.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Mvc.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Optimization.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.Razor.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csprojAssemblyReference.cache
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csproj.CoreCompileInputs.cache
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csproj.CopyComplete
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.dll
+C:\Users\luiscaPC\Desktop\Nueva carpeta (8)\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.pdb
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.dll.config
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\ToDoListWebApi.pdb
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.exe
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.exe.config
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\csc.rsp
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\csi.exe
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\csi.rsp
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.AppContext.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.exe
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.exe.config
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\vbc.rsp
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Antlr3.Runtime.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.SqlServer.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Newtonsoft.Json.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Net.Http.Formatting.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Helpers.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.WebHost.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Mvc.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Optimization.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Razor.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\WebGrease.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\EntityFramework.SqlServer.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Newtonsoft.Json.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Net.Http.Formatting.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Helpers.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Http.WebHost.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Mvc.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Optimization.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.Razor.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Antlr3.Runtime.pdb
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Http.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csproj.CopyComplete
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.dll
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.pdb
+C:\Proyectos\GitHub\ToDoListWeb\ToDoListWebApi\obj\Debug\ToDoListWebApi.csprojAssemblyReference.cache

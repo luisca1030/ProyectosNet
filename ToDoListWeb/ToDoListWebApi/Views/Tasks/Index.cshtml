@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ToDoListWebApi.Models.TasksViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <h2>Tasks List</h2>
+    @using (Html.BeginForm("index", "Tasks", FormMethod.Post))
+    {
+        <br />
+        <fieldset>
+            <legend>Search</legend>
+            <div class="form-group">
+                <div class="col-md-1">
+                    <label>Name :</label>
+                </div>
+                <div class="col-md-3">
+                    @Html.TextBox("Cadena", "", new { @class = "form-control" })
+                </div>
+                <div class="col-md-2">
+                    <button type="submit" class="btn btn-success">Search</button>
+                </div>
+                <div class="col-md-6"></div>
+            </div>
+        </fieldset>
+    }
+
+    <div style="float: right;">
+        <p>
+            @Html.ActionLink("Create Task", "Create", null, new { @class = "btn btn-warning" })
+        </p>
+    </div>
+
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                Status
+            </th>
+            <th>
+                Assigned User
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Users.Name)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>
